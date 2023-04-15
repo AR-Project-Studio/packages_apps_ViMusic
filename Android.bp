@@ -1,0 +1,10 @@
+android_app_import {
+	name: "ViMusic",
+	owner: "vfsfitvnm",
+	apk: "vimusic-0.5.4.apk",
+	presigned: true,
+	dex_preopt: {
+		enabled: false,
+	},
+	product_specific: true,
+}
